@@ -1,0 +1,14 @@
+# SimplePrefix config
+prefixes:
+    'admin':
+        permission: 'simpleprefix.admin'
+        prefix: '&c[Admin] '
+        vip: ''
+    'mod':
+        permission: 'simpleprefix.mod'
+        prefix: '&9[Mod] '
+        vip: ''
+    'owner':
+        permission: 'simpleprefix.owner'
+        prefix: '&d[&6Owner&d]&f '
+        vip: 'ReFuuzDMotionz'
